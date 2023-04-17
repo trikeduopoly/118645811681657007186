@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096852566299",
+    "project_id": "pinjol-legal-ojk-bunga-rendah",
+    "storage_bucket": "pinjol-legal-ojk-bunga-rendah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096852566299:android:e23d05eb774b7181d463be",
+        "android_client_info": {
+          "package_name": "com.PinjolLegalOJKBungaRendah.Waluyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096852566299-7sg55mprhr995enkvv5ds632lgc0gpsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhjq7SD-ymnkAGmVAFO5BH-RC6yYEdnXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096852566299-7sg55mprhr995enkvv5ds632lgc0gpsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
